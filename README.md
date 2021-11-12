@@ -41,5 +41,5 @@
       * ANN 3  
 * บทที่ 7 Clustering
 * MiniExam
-  * MiniExam
+  * [MiniExam](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/MiniExam.ipynb)
 * Group Project
