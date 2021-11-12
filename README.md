@@ -44,6 +44,12 @@
     * Continuous Attribute
     * Basic Statistical Descriptions of Data
 
+  * [Lecture Measuring Data Similarity and Dissimilarity](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%202%20%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1.pdf)
+    * Similarity, Dissimilarity, and Proximity
+    * Data Matrix and Dissimilarity Matrix
+    * Standardizing Numeric Data
+    * Special Cases of Minkowski Distance
+
 
 * บทที่ 3 Data Preprocessing
 
