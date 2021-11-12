@@ -17,14 +17,14 @@
 
 
 # สารบัญ
-* * บทที่ 1 INTRODUCTION 
+* บทที่ 1 INTRODUCTION 
    * [introduction](https://www.example.com)
 * บทที่ 2 Getting to Know Your Data
 * บทที่ 3 Data Preprocessing
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
 * บทที่ 5 Association Rules
 * บทที่ 6 Classification
-  * k-Nearest Neighbor & Neural Networks
+  * [k-Nearest Neighbor & Neural Networks](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chap7_Classification(KNN_NN).ipynb)
     * Load Data
     * Split Data
     * Train Model
