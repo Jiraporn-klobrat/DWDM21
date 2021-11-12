@@ -19,12 +19,21 @@
 # สารบัญ
 * บทที่ 1 INTRODUCTION 
    * [introduction](https://www.example.com)
-* บทที่ 2 Getting to Know Your Data
-* บทที่ 3 Data Preprocessing
-* บทที่ 4 Data Warehousing and On-line Analytical Processing
-* บทที่ 5 Association Rules
-* บทที่ 6 Classification
 
+
+* บทที่ 2 Getting to Know Your Data
+
+
+* บทที่ 3 Data Preprocessing
+
+
+* บทที่ 4 Data Warehousing and On-line Analytical Processing
+
+
+* บทที่ 5 Association Rules
+
+
+* บทที่ 6 Classification
   * [k-Nearest Neighbor & Neural Networks](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chap7_Classification(KNN_NN).ipynb)
     * Load Data
     * Split Data
@@ -49,7 +58,25 @@
       * Train
     * Evaluation
 
+
 * บทที่ 7 Clustering
+  * [Clustering](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chap8_Clustering.ipynb)
+    * K-means
+      * Generate Data
+      * Explore Data
+      * Clustering
+        * Import
+        * Define
+        * Fit-Predict
+        * Plot
+      * Example Application (Color Quantization)
+        * นับจำนวนสี
+        * จัดกลุ่มสีให้เหลือ 16 สี
+        * ใช้ centroid เป็นตัวแทนของสี
+
+
 * MiniExam
   * [MiniExam](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/MiniExam.ipynb)
+
+
 * Group Project
