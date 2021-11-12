@@ -59,6 +59,9 @@
 
 
 * บทที่ 3 Data Preprocessing
+  * [Lecture Data Preprocessing](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%203.pdf)
+    * Data Preprocessing: An Overview
+    * Data Cleaning
 
 
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
