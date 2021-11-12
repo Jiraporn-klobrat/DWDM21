@@ -24,6 +24,7 @@
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
 * บทที่ 5 Association Rules
 * บทที่ 6 Classification
+
   * [k-Nearest Neighbor & Neural Networks](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chap7_Classification(KNN_NN).ipynb)
     * Load Data
     * Split Data
@@ -39,6 +40,15 @@
       * Train - Test
       * ANN 2
       * ANN 3  
+  * [Evaluation](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+    * Load data
+    * แบ่ง Data
+    * สร้าง Model ทำนาย
+      * Import
+      * Define
+      * Train
+    * Evaluation
+
 * บทที่ 7 Clustering
 * MiniExam
   * [MiniExam](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/MiniExam.ipynb)
