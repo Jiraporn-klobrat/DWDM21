@@ -19,9 +19,11 @@
 # สารบัญ
 * บทที่ 1 INTRODUCTION 
    * [Lecture Introduction](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%201.pdf)
-      * Why Data Mining?
-      * What is Data Mining?
+      * Data Mining?
       * Knowledge Discovery (KDD) Process
+      * Example: A Web Mining Framework
+      * Data Mining in Business Intelligence
+      * How the data suppose to look like
       * Data Mining Functions
         * Pattern Discovery
         * Classification
