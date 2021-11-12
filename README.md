@@ -50,6 +50,13 @@
     * Standardizing Numeric Data
     * Special Cases of Minkowski Distance
 
+  * [Lecture Binary Distance](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%202%20Binary%20Distance_140964.pdf)
+    * Proximity Measure for Binary Attributes
+    * Proximity Measure for Categorical Attributes
+    * Ordinal Variables
+    * Attributes of Mixed Type
+    * Cosine Similarity of Two Vectors
+
 
 * บทที่ 3 Data Preprocessing
 
