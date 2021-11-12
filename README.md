@@ -65,6 +65,20 @@
 
 
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
+  * [Lecture Data Warehousing and On-line Analytical Processing](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%204.pdf)
+    * What is a Data Warehouse?
+    * From Tables and Spreadsheets to Data Cubes
+    * Conceptual Modeling of Data Warehouses
+       * Star Schema: An Example
+       * Snowflake Schema: An Example
+       * Fact Constellation: An Example
+     * Typical OLAP Operations
+        * Roll up (drill-up)
+        * Drill down (roll down)
+        * Slice and dice
+        * Pivot (rotate)
+        * Drill across
+        * Drill through
 
 
 * บทที่ 5 Association Rules
