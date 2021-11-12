@@ -17,12 +17,28 @@
 
 
 # สารบัญ
-* บทที่ 1 Introduction
+* * บทที่ 1 INTRODUCTION 
+   * [introduction](https://www.example.com)
 * บทที่ 2 Getting to Know Your Data
 * บทที่ 3 Data Preprocessing
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
 * บทที่ 5 Association Rules
 * บทที่ 6 Classification
+  * k-Nearest Neighbor & Neural Networks
+    * Load Data
+    * Split Data
+    * Train Model
+      * import
+      * knn1
+      * knn2
+      * knn3
+    * Retrain & Evaluate
+    * Neural Network
+      * Import
+      * Define
+      * Train - Test
+      * ANN 2
+      * ANN 3  
 * บทที่ 7 Clustering
 * MiniExam
   * MiniExam
