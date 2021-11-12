@@ -30,6 +30,19 @@
         * Cluster Analysis
 
 * บทที่ 2 Getting to Know Your Data
+  * [Lecture Data Objects and Attribute Types](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%202.pdf)
+    * Types of Data Sets
+      * Record Data
+      * Ordered Data
+      * Spatial, image and multimedia Data
+    * Important Characteristics of Structured Data
+    * Data Objects
+    * Attributes
+    * Attribute Types
+    * Numeric Attribute Types
+    * Discrete Attribute
+    * Continuous Attribute
+    * Basic Statistical Descriptions of Data
 
 
 * บทที่ 3 Data Preprocessing
