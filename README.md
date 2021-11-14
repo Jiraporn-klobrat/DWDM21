@@ -115,6 +115,14 @@
       * Training Dataset
     * Lazy Learner: Instance-Based Methods
     * The k-Nearest Neighbor Algorithm
+  * [Lecture Evaluation & Neural Networks](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Precision_Recall_F-measures.pdf)
+    * Neural Network for Classification
+      * Perceptron
+    * Model Evaluation and Selection
+    * Classifier Evaluation Metrics
+      * Confusion Matrix
+      * Accuracy, Error Rate,Sensitivity and Specificity
+      * Precision and Recall, and F-measures
   * [k-Nearest Neighbor & Neural Networks](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chap7_Classification(KNN_NN).ipynb)
     * Load Data
     * Split Data
