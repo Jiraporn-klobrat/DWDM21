@@ -56,6 +56,11 @@
     * Ordinal Variables
     * Attributes of Mixed Type
     * Cosine Similarity of Two Vectors
+  * [Pandas](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Data102(Chapter2).ipynb)
+    * Read Data
+      * .head() .tail()
+    * Boxplot
+    * Time Series Plot
   * [Visualization](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Data_Visualization.ipynb)
     * Scatter plot
     * Plot
