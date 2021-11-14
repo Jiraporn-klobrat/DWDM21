@@ -94,6 +94,18 @@
         * Apriori Pruning and Scalable Mining Methods
         * A Candidate Generation & Test Approach
         * The Apriori Algorithm
+  * [Data 'reduced_marketbasket' Case](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter6_Association_Rules.ipynb)
+    * ลบ records ที่ถูก cancel ออกไป
+    * [Q] มีประเทศสาขาของ supermarket นี้ทั้งหมดกี่ประเทศ
+    * [HW13] วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+    * เฉลยการบ้าน
+      * ดูว่า คอลัมน์ไหนมี ค่า missing บ้าง
+      * เพิ่มคอลัมน์ ยอดขาย (Quantity*UnitPrice)
+      * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+    * Apriori
+      * (Quiz7) หา k-itemset ที่มีความน่าสนใจ (โดยพิจารณาลูกค้าเป็นรายคน) พร้อมทั้งอธิบายว่าน่าสนใจยังไง
+      * แก้ไข Quiz7
+
 
 
 * บทที่ 6 Classification
