@@ -97,6 +97,16 @@
 
 
 * บทที่ 6 Classification
+  * [Lecture Classification: Basic Concepts](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%208.pdf)
+    * Basic Concepts
+      * Supervised vs. Unsupervised Learning (1)
+      * Supervised vs. Unsupervised Learning (2)
+      * Prediction Problems: Classification vs. Numeric Prediction
+      * Classification—Model Construction, Validation and Testing
+    * Decision Tree Induction
+      * An Example
+      * Information Gain
+
   * [k-Nearest Neighbor & Neural Networks](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chap7_Classification(KNN_NN).ipynb)
     * Load Data
     * Split Data
