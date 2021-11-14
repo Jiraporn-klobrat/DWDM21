@@ -56,6 +56,25 @@
     * Ordinal Variables
     * Attributes of Mixed Type
     * Cosine Similarity of Two Vectors
+  * [Distance_Numpy](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Distance_Numpy.ipynb)
+    * Numpy array
+      * สร้าง numpy array
+        * matrix transpose
+      * สร้าง matrix เริ่มต้น (zeros, ones)
+      * สร้าง matrix random
+        * matix properties
+      * Indexing & Slicing
+      * Useful functions
+      * วนลูปเอง
+        * summation
+      * Quiz กลุ่ม
+    * Distance Matrix
+      * Euclidean Distance (L2-norm)
+      * Distance function
+      * Manhattan Distance (L1-norm)
+      * HW11
+      * เฉลย HW11
+      * Distance of Binary Value
 
 
 * บทที่ 3 Data Preprocessing
