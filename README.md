@@ -82,6 +82,18 @@
 
 
 * บทที่ 5 Association Rules
+  * [Lecture Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%206.pdf)
+    * Basic Concepts
+      * What Is Pattern Discovery?
+        * k-Itemsets and Their Supports
+        * Frequent Itemsets (Patterns)
+        * From Frequent Itemsets to Association Rules
+        * Mining Frequent Itemsets and Association Rules
+    * Efficient Pattern Mining Methods
+      * Apriori Algorithm
+        * Apriori Pruning and Scalable Mining Methods
+        * A Candidate Generation & Test Approach
+        * The Apriori Algorithm
 
 
 * บทที่ 6 Classification
