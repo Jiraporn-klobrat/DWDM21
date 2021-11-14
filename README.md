@@ -56,6 +56,14 @@
     * Ordinal Variables
     * Attributes of Mixed Type
     * Cosine Similarity of Two Vectors
+  * [Visualization](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Data_Visualization.ipynb)
+    * Scatter plot
+    * Plot
+    * Quiz กลุ่ม III วาดกราฟที่มี marker เป็น สี่เหลี่ยมจัตุรัส เส้นเป็น เส้นประสลับจุดไข่ปลา สีฟ้าอ่อน
+    * Bar chart
+      * Grouped Barchart ใช้เปรียบเทียบกลุ่มย่อยในกลุ่มใหญ่
+      * Sracked Barchart เปรียบเทียบข้ามกลุ่ม
+    * Histogram
   * [Distance_Numpy](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Distance_Numpy.ipynb)
     * Numpy array
       * สร้าง numpy array
