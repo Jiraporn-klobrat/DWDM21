@@ -62,6 +62,57 @@
   * [Lecture Data Preprocessing](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Chapter%203.pdf)
     * Data Preprocessing: An Overview
     * Data Cleaning
+  * [Data Preprocessing](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Data_Preprocessing_(Chapter_3).ipynb)
+    * Meta Data (Data ที่ใช้อธิบาย Data)
+      * ชี้ข้อมูลในตาราง
+        * ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+        * ชี้แบบ .iloc[] (มองข้อมูลเป็น matrix)
+      * Missing Values
+        * Handling Missing Value 1 (ลบค่า missing)
+        * Quiz 3 ให้หาว่า การทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+        * Handling Missing Value 1.5 (ลบค่า missing เฉพาะใน คอลัมล์ที่เราสนใจเท่านั้น)
+        * Quiz 3.1 ให้ หาว่า การทำ dropna() แบบเลือก drop เฉพาะ คอลัมล์ที่เราสนใจ ทำให้ข้อมูลหายไป กี่%
+        * แก้ไขควิซ
+        * Handling Missing Value 2 (แทนด้วย class ใหม่ (unknown))
+        * Handling Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+        * Handling Missing Value 4 (แทนด้วย ค่ากลาง)
+          * ถ้าเป็น numeric ใช้ mean
+          * ถ้าเป็น norminal (ตัวหนังสือ) จะใช้ mode
+          * ถ้าเป็น ordinal ใช้ median
+            * เติมด้วยค่าของ column ใกล้เคียง (เดี๋ยวย้อนกลับมา)
+        * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+      * Select data by values [PD]
+        * สร้าง list ของ boolean
+          * นำ list ของ boolean มาเลือกค่าในตาราง
+      * Quiz 4 + HW
+          * records ที่ กักตัวที่ขอนแก่น
+          * records ที่ กักตัวที่ ขอนแก่น+โคราช+อุดร
+          * records ที่ เป็นผู้หญิงที่พบเชื้อที่ กทม
+          * records ที่เป็นผู้ชาย อายุ 18-22 ปี ที่กักตัวที่เชียงใหม่
+          * หาอายุเฉลี่ยของคนที่พบเชื้อที่ ขอนแก่น
+            * พบที่ขอนแก่น
+            * เอาค่า mean ไปเติมตรง missing column 'age'
+            * ต่อตารางแนวแกน Y [PD]
+        * Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน)(ต่อ)
+        * การเรียงข้อมูล [PD]
+      * Outlier
+        * ตัด outlier แบบ manual
+      * Quiz 5
+      * HW หรือ Quiz กลุ่ม (III) แก้ให้ function box_vals สามารถรับ input ที่ box plot วาดแบบแนวนอนได้ (vert = False)
+      * Pandas' looping (.iterrows)
+      * การรวมตาราง Data Integration (ต่อตารางในแนวแกน x)
+        * รวม 2 ตาราง (.merge())
+        * เลือกเฉพาะ column ที่ต้องการมาแปะ (.map())
+        * ตารางรอง (ตารางข้างขวา) ต้องไม่มี index ซ้ำ
+        * Group by (pandas)
+        * HW + Quiz
+          * (จากตาราง w_restaurant กับ search_click) หา จังหวัดที่มีคนกดเข้าไปดูผลการ search 3 อันดับแรก
+          * (จากตาราง w_restaurant กับ search_click) เมืองไหนที่มีค่าเฉลี่ยของ 'weighted_average_rating' สูงที่สุด
+          * (จากตาราง confirmed-cases) เรียงลำดับ risk ที่ทีให้คนติดโรค 5 อันดับแรก
+          * (จากตาราง confirmed-cases) หาจังหวัดที่มีคนกักตัวมากที่สุด 10 อันดับแรก
+          * เฉลย HW10 + Quiz
+         * [PD] save ตารางเอาไปใช้ที่อื่น
+         * [PD] การสร้างตาราง
 
 
 * บทที่ 4 Data Warehousing and On-line Analytical Processing
