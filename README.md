@@ -360,3 +360,4 @@
     * Evaluation
       * Retain & Evaluation
     * Data_Visualization
+  * [Slide นำเสนอ](https://github.com/Jiraporn-klobrat/DWDM21/blob/main/Group-Project.pdf)
